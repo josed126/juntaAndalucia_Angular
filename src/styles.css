@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+.carousel-item img {
+    max-height: 550px;
+    object-fit: cover;
+    margin-top: 20px;
+ 
+  }
+  .carousel-caption {
+    text-align: center;
+  }
+  .custom-caption {
+  background-color: #f2f2f2; /* Color gris de fondo */
+  padding: 10px; /* Ajusta el espaciado interno según sea necesario */
+  border-radius: 5px; /* Opcional: Agrega bordes redondeados */
+}
+p{
+  color: black;
+}
